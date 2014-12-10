@@ -1,28 +1,17 @@
 /*
-Error: Invalid CSS after "... #7db9e8 100%))": expected expression (e.g. 1px, bold), was ";"
-        on line 2 of /Applications/MAMP/htdocs/portafolio/sass/style.sass
+Error: Invalid @import: expected end of line, was ";".
+        on line 1 of /Applications/MAMP/htdocs/portafolio/sass/style.sass
 
-1: .gradient {
-2:   @include background-image(linear-gradient(#1e5799 0%, #7db9e8 100%));
-3:     }
+1: @import "reset.scss";
+2: @import "base.scss";
+3: @import "layout.scss";
 
 Backtrace:
-/Applications/MAMP/htdocs/portafolio/sass/style.sass:2
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:1165:in `expected'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/script/lexer.rb:220:in `expected!'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/script/parser.rb:602:in `assert_done'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/script/parser.rb:103:in `parse_mixin_include_arglist'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:1102:in `parse_mixin_include'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:1091:in `parse_include_directive'
+/Applications/MAMP/htdocs/portafolio/sass/style.sass:1
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:986:in `parse_import_directive'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:788:in `parse_directive'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:635:in `parse_line'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:525:in `build_tree'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:544:in `block in append_children'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:543:in `each'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:543:in `append_children'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:534:in `block in build_tree'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:527:in `each'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:527:in `build_tree'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:544:in `block in append_children'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:543:in `each'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:543:in `append_children'
@@ -50,4 +39,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"... #7db9e8 100%))\": expected expression (e.g. 1px, bold), was \";\"\A         on line 2 of /Applications/MAMP/htdocs/portafolio/sass/style.sass\A \A 1: .gradient {\A 2:   @include background-image(linear-gradient(#1e5799 0%, #7db9e8 100%));\A 3:     }"; }
+  content: "Error: Invalid @import: expected end of line, was \";\".\A         on line 1 of /Applications/MAMP/htdocs/portafolio/sass/style.sass\A \A 1: @import \"reset.scss\";\A 2: @import \"base.scss\";\A 3: @import \"layout.scss\";"; }
