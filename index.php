@@ -19,6 +19,10 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
+      
+      <div class="col-lg-6 col-sm-6 col-md-6 col-xs-6 text-center">
+      <p>nadie</p>
+      </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

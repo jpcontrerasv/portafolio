@@ -1,4 +1,13 @@
 h1 {
-  color: red; }
+  color: #ac5600; }
+
+.site-navigation {
+  color: #895623; }
+  .site-navigation ul {
+    color: #895623; }
+    .site-navigation ul li {
+      color: #895623; }
+      .site-navigation ul li a {
+        color: #895623; }
 
 /*# sourceMappingURL=style.css.map */

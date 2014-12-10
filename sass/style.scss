@@ -1,5 +1,18 @@
-$rojo: #F00;
+$rojo: #895623;
 
 h1 {
     color: saturate($rojo, 50%);
+}
+
+.site-navigation {
+  color: $rojo;
+  ul {
+   color: $rojo;    
+    li {
+     color: $rojo;
+      a {
+       color: $rojo;
+      }
+    }
+  }
 }
