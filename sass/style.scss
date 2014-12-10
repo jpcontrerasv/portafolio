@@ -1,0 +1,5 @@
+$rojo: #F00;
+
+h1 {
+    color: saturate($rojo, 50%);
+}
