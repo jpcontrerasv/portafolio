@@ -93,7 +93,6 @@ nav ul {
 }
 
 figcaption {
-    border-top: 1px solid $gris;
     font-size: $tamanomin;
     margin-top: 5px;
 }
@@ -104,5 +103,11 @@ p.tit-seccion {
 #cv .clearfix {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.tecnicas {
+    margin-bottom: 40px;
+}
+.tecnicas ul li:first-child{
+    list-style: none;
 }
 

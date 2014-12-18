@@ -3,15 +3,11 @@
     <div class="container-fluid">
         <div id="menu" class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
 
-            <nav>
-                <h1><a href="index.php">Juan Pablo <br>Contreras Valdés</a></h1>      
-                <ul>
-                    <li><a href="page-cv.php">CV</a></li>
-                    <li><a href="#">Portafolio</a></li>
-                    <li><a href="#">Contacto</a></li>
-                </ul>
-            </nav>
+            <?php include 'nav.php'; ?>
+            
         </div>
+        
+        
         <div id="principal" class="col-lg-6 col-md-6 col-sm-10 col-xs-12">
             <div class="contenido box fleft fwidth text-justified">
                 <figure>
