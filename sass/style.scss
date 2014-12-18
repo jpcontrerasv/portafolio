@@ -31,6 +31,12 @@ a {
 	display:block;
 	visibility:visible;
 }
+.no-column {
+    padding-left: 0;
+}
+.text-justified {
+    text-align: justify;
+}
 
 //variables 
 $gris: #999;
@@ -45,6 +51,10 @@ $interlineadogen: 1.5em;
     font-weight:400;
     color: $gris;
 }
+#menu h1 a {
+    color: $gris;
+}
+
 nav {
     color: $gris;
     background-color: #fff;
@@ -72,19 +82,27 @@ nav ul {
     padding-top: 6px;
 }
 
-#contenido .home{
+#principal .contenido{
     margin: $espaciado;
-    text-align: justify;
     font-size: $tamanogen;
     line-height: $interlineadogen;
 }
-.home figure {
+.contenido figure {
     float: left;
     margin: 5px 20px 0 0;
 }
+
 figcaption {
     border-top: 1px solid $gris;
     font-size: $tamanomin;
     margin-top: 5px;
+}
+p.tit-seccion {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+#cv .clearfix {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 

@@ -22,16 +22,16 @@
         <div id="menu" class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
 
             <nav>
-                <h1>Juan Pablo <br>Contreras Valdés</h1>    
+                <h1><a href="index.php">Juan Pablo <br>Contreras Valdés</a></h1>      
                 <ul>
-                    <li><a href="#">CV</a></li>
+                    <li><a href="page-cv.php">CV</a></li>
                     <li><a href="#">Portafolio</a></li>
                     <li><a href="#">Contacto</a></li>
                 </ul>
             </nav>
         </div>
-        <div id="contenido" class="col-lg-6 col-md-6 col-sm-10 col-xs-12">
-            <div class="home box fleft width">
+        <div id="principal" class="col-lg-6 col-md-6 col-sm-10 col-xs-12">
+            <div class="contenido box fleft fwidth text-justified">
                 <figure>
                     <img src="img/perfil.jpg" alt="Yo, 1989">
                     <figcaption>Yo, 1987.</figcaption>
