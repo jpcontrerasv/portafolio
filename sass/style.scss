@@ -32,39 +32,59 @@ a {
 	visibility:visible;
 }
 
-
+//variables 
+$gris: #999;
+$tamanomin: 11px;
+$tamanogen: 12px;
+$espaciado: 20px 15px 20px 1px;
+$interlineadogen: 1.5em;
 
 /*Portafolio*/
 #menu h1 {
     font-size: 18px;
     font-weight:400;
+    color: $gris;
 }
 nav {
-    color: rgba(0,0,0,0.4);
+    color: $gris;
     background-color: #fff;
     bottom: 30px;
     float: left;
-    height: 100%;
-    left: 0;
-    margin: 0 40px 20px;
-    padding: 0;
-    top: 5px;
-    width: 170px;    
+    height: auto;
+    margin: 0;
+    padding: 0; 
 }
 nav ul li{
     list-style: none;
-    color: #999;
+    color: $gris;
     font-family: Helvetica,Arial,sans-serif;
-    font-size: 11px;
+    font-size: $tamanomin;
     margin-bottom: 5px;
     text-transform: uppercase;
+}
+nav ul li a {
+    color: #000;
 }
 nav ul {
     line-height: 17px;
     list-style: outside none none;
-    margin: 20px 15px 20px 1px;
+    margin: $espaciado;
     padding-top: 6px;
 }
 
-
+#contenido .home{
+    margin: $espaciado;
+    text-align: justify;
+    font-size: $tamanogen;
+    line-height: $interlineadogen;
+}
+.home figure {
+    float: left;
+    margin: 5px 20px 0 0;
+}
+figcaption {
+    border-top: 1px solid $gris;
+    font-size: $tamanomin;
+    margin-top: 5px;
+}
 
