@@ -1,0 +1,38 @@
+.box {
+  display: block;
+  height: auto;
+  overflow: hidden; }
+
+.fleft {
+  float: left; }
+
+.fright {
+  float: right; }
+
+.fcenter {
+  margin: 0 auto; }
+
+.fwidth {
+  width: 100%; }
+
+*, p, a {
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none;
+  outline: none; }
+
+.ocultar {
+  display: none;
+  visibility: hidden; }
+
+.mostrar {
+  display: block;
+  visibility: visible; }
+
+/*Portafolio*/
+nav ul li {
+  list-style: none; }
+
+/*# sourceMappingURL=style.css.map */
