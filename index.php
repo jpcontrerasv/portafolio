@@ -19,15 +19,16 @@
   </head>
   <body>
   
-  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-  	<nav>
-    	<ul>
-        	<li><h1>Juan Pablo Contreras Valdés</h1></li>
-            <li><a href="#">Portafolio</a></li>
-            <li><a href="#">Contacto</a></li>
-        </ul>
-    </nav>
-  </div>
+    <div id="menu" class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+        
+        <nav>
+            <h1>Juan Pablo <br>Contreras Valdés</h1>    
+            <ul>
+                <li><a href="#">Portafolio</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </div>
   
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
