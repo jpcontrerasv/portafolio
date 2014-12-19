@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
     
-  <body>
+ 
     <div class="container-fluid">
         <div id="menu" class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
 
