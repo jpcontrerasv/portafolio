@@ -1,0 +1,105 @@
+.box {
+  display: block;
+  height: auto;
+  overflow: hidden; }
+
+.fleft {
+  float: left; }
+
+.fright {
+  float: right; }
+
+.fcenter {
+  margin: 0 auto; }
+
+.fwidth {
+  width: 100%; }
+
+*, p, a {
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none;
+  outline: none; }
+
+.ocultar {
+  display: none;
+  visibility: hidden; }
+
+.mostrar {
+  display: block;
+  visibility: visible; }
+
+.no-column {
+  padding-left: 0; }
+
+.text-justified {
+  text-align: justify; }
+
+/*Portafolio*/
+#menu h1 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #999; }
+
+#menu h1 a {
+  color: #999; }
+
+nav {
+  color: #999;
+  background-color: #fff;
+  bottom: 30px;
+  float: left;
+  height: auto;
+  margin: 0;
+  padding: 0; }
+
+nav ul li {
+  list-style: none;
+  color: #999;
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 11px;
+  margin-bottom: 5px;
+  text-transform: uppercase; }
+
+nav ul li a {
+  color: #000; }
+
+ul#menu-menu-sidebar li.current-menu-item a {
+  text-decoration: underline; }
+
+nav ul {
+  line-height: 17px;
+  list-style: outside none none;
+  margin: 20px 15px 20px 1px;
+  padding-top: 6px; }
+
+#principal .contenido {
+  margin: 20px 15px 20px 1px;
+  font-size: 12px;
+  line-height: 1.5em; }
+
+.contenido figure {
+  float: left;
+  margin: 5px 20px 0 0; }
+
+figcaption {
+  font-size: 11px;
+  margin-top: 5px; }
+
+p.tit-seccion {
+  font-weight: 700;
+  text-transform: uppercase; }
+
+#cv .clearfix {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+.tecnicas {
+  margin-bottom: 40px; }
+
+.tecnicas ul li:first-child {
+  list-style: none; }
+
+/*# sourceMappingURL=style.css.map */
