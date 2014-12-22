@@ -53,16 +53,17 @@
                         <h4><a href="http://www.andrestapia.cl/" target="_blank">Andrés Tapia</a></h4>
                     </li>
                     <li>
-                        <h4><a href="http://201.238.235.41/clientes/penta/nuevaweb/" target="_blank">Penta</a></h4>
+                        <h4><a href="http://201.238.235.41/clientes/penta/nuevaweb/" target="_blank">Penta *</a></h4>
                     </li>
                     <li>
-                        <h4><a href="http://prueba.mui.cl/" target="_blank">MUI</a></h4>
+                        <h4><a href="http://prueba.mui.cl/" target="_blank">MUI *</a></h4>
                     </li>
                     <li>
                         <h4><a href="http://201.238.235.41/clientes/mnhm" target="_blank">Mañana no hay Mañana</a></h4>
                     </li>
                     
                 </ul>
+                <p>* En proceso</p>
             </div>
         </div>  
     </div>

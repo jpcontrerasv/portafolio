@@ -12,7 +12,16 @@
             
             <h5>PERFIL PROFESIONAL</h5>
 
-            <p>Conocimiento adquirido mayoritariamente de manera autodidacta, en manejo de software para aplicación gráfica y desarrollo web. Amplio manejo de lenguajes de programación orientados a maquetación web como HTML/CSS y en sistemas de administración de contenidos, como WordPress. Con interés en desarrollo multimedia, animación y web.</p><br><br>
+           <p>En los últimos 4-5 años me he dedicado a diseñar, programar en HTML/CSS/Javascript y aprender todo lo que WordPress pueda enseñarme (realicé un taller gratuito para enseñar a quienes no lo conocen aún).</p>
+<p>Soy autodidacta, aunque estudié 3 años en la Universidad de Valparaíso. También hice un semestre de Sociología en la Universidad de Buenos Aires y otro semestre de Diseño, también en la Universidad de Buenos Aires.</p>
+
+<p>Manejo el idioma inglés de forma fluida, tanto oral como escrito.</p>
+
+<p>Mi interés al momento de desarrollar procesos que concluyen en un interfaz es considerar procedimientos previos.</p>
+
+<p>Hablando de mis aficiones, diría que me gusta mucho andar en bici.</p>
+
+                <p>En lo técnico, he desarrollado web para móviles con responsive design usando tanto Bootstrap como Foundation junto con SASS, WordPress, WooCommerce y también tengo experiencia usando programas de post-producción como After Effects, Adobe Premiere y Soundbooth.</p><br><br>
 
 
                 
@@ -74,6 +83,7 @@
         <li><p>CSS: CSS3, desarrollo de animaciones y uso de preprocesadores como SASS.</p></li>
         <li><p>Javascript: Implementación de Jquery y soluciones nativas de scripts en un nivel intermedio.</p></li>
         <li><p>WordPress: Creación de templates altamente personalizados para administración de contenido</p></li>
+        <li><p>WordPress: Manejo de WooCommerce para implementación de ecommerce.</p></li>
         <li><p>Optimización de carga mediante CloudFlare.</p></li>
         <li><p>Manejo de presupuesto de campañas en Facebook. Creación de landing pages en Facebook. Habilitación de aplicaciones en Facebook.</p></li>
         <li><p>Manejo de presupuesto de campañas en Twitter.</p></li>
